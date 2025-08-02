@@ -1,0 +1,451 @@
+{
+	
+	"reservationsList": [
+
+		{
+			"action": "delete",
+			"value": {
+				"orderNo": "48426675"
+
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48570721"
+			}
+
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48571618"
+				
+			}
+		},
+		
+		
+		
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48644879"
+				
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48645170"
+				
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48647808"
+				
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48647896"
+				
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48501586"
+				
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48774777"
+
+			}
+		},
+		
+		
+		
+		
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48397342"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48565254"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48426649"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48583391"
+
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48490457"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48590453"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48591052"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48760830"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48647740"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48781621"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48780461"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48067621"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48455550"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48552338"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48620158"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48777962"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48340085"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48546777"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48657906"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48839899"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48863613"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48571136"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "45919070"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48494763"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48650012"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48748607"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48853888"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48404743"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48505108"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48862250"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48508735"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48343093"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48537838"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48859557"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48507818"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48868098"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48575696"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48590276"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48624032"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48388737"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48508718"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48508735"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48565013"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48583785"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48839649"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48651839"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48652753"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48830511"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48834913"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48389802"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48619348"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48871966"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "44961053"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48508718"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48508735"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48565801"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48625520"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48794023"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48796551"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48471411"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48658841"
+			}
+		},
+		{
+			"action": "delete",
+			"value": {
+				"ordeerNo": "48242290"
+			}
+		}
+
+
+	]
+}
