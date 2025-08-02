@@ -1,0 +1,3 @@
+# import cv2; [cv2.imshow('Video', frame) for frame in iter(lambda: cv2.VideoCapture(0).read()[1], None) if cv2.waitKey(1) & 0xFF != ord('q')]; cv2.destroyAllWindows()
+
+import cv2; import numpy as np; img = np.ones((400, 400, 3), dtype="uint8") * 255; pts = np.array([[100, 200], [200, 100], [300, 200], [250, 150], [200, 180], [150, 150]], np.int32); cv2.polylines(img, [pts], isClosed=True, color=(0, 0, 0), thickness=2); cv2.imshow("Bird", img); cv2.waitKey(0); cv2.destroyAllWindows()
